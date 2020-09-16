@@ -1,17 +1,17 @@
 {
-TeamLead: "Zia Khan",
-Teachers: [
+"TeamLead": "Zia Khan",
+"Teachers": [
   {
-    name: "Zeeshan Hanif"
+    "name": "Zeeshan Hanif"
   },
   {
-    name: "Adil Altaf"
+    "name": "Adil Altaf"
   },
   {
-    name: "Aamir Pinger"
+    "name": "Aamir Pinger"
   },
   {
-    name: "Mohsin Khalid"
+    "name": "Mohsin Khalid"
   },
 ]
 }
