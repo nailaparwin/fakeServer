@@ -1,6 +1,9 @@
 {
 "Teachers": [
   {
+    "name": "Zia Khan"
+  },
+  {
     "name": "Zeeshan Hanif"
   },
   {
@@ -12,6 +15,6 @@
   {
     "name": "Mohsin Khalid"
   }
-],
-"TeamLead": "Zia Khan"
+]
+
 }
